@@ -10,6 +10,9 @@ needed further down the line as I progress in this career.This project also
 will show that I can use HTML to establish a basic frame for a project. I 
 will also be using tags for images, and relative links it will also show that
 I can use unordered and ordered lists. I will also be using git commit 
-messages to explain what I changed.  
+messages to explain what I changed. 
+
+ For another practice exercise I will be using the external method of CSS to
+put styling for the index and recipe pages.  
 
 

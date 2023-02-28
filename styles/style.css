@@ -1,0 +1,38 @@
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+}
+
+Body{
+    background-color: aquamarine;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+.chickparm{
+    color: red;
+}
+
+.pbcookie{
+    color:brown;
+
+}
+
+.lemonade{
+    color: yellow;
+}
