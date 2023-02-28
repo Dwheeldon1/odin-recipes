@@ -1,0 +1,29 @@
+.h1{
+    text-align: center;
+    background-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.chickparmimg{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:75%;
+}
+.flavor{
+    text-align: center;
+    font-weight: bold;
+}
+
+.prep{
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+
